@@ -1,0 +1,150 @@
+100x100
+----------------------------------------------------------------------------------------
+Host to Device transfer time for size 100 x 100: 0.033792 ms
+Device to Host transfer time for size 100 x 100: 0.047872 ms
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 100 x 100 and block width: 2: 1.006880 ms
+CPU Matrix Multiplication time for size 100 x 100 and block width 2: 2.706432 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 100 x 100 and block width: 5: 0.096256 ms
+CPU Matrix Multiplication time for size 100 x 100 and block width 5: 2.707232 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 100 x 100 and block width: 10: 0.092160 ms
+CPU Matrix Multiplication time for size 100 x 100 and block width 10: 2.686976 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 100 x 100 and block width: 25: 0.093184 ms
+CPU Matrix Multiplication time for size 100 x 100 and block width 25: 2.625536 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 100 x 100 and block width: 32: 0.097280 ms
+CPU Matrix Multiplication time for size 100 x 100 and block width 32: 2.724864 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+250x250
+----------------------------------------------------------------------------------------
+Host to Device transfer time for size 250 x 250: 0.107968 ms
+Device to Host transfer time for size 250 x 250: 0.072416 ms
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 250 x 250 and block width: 2: 5.088736 ms
+CPU Matrix Multiplication time for size 250 x 250 and block width 2: 41.425919 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 250 x 250 and block width: 5: 1.102848 ms
+CPU Matrix Multiplication time for size 250 x 250 and block width 5: 41.433922 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 250 x 250 and block width: 10: 0.499712 ms
+CPU Matrix Multiplication time for size 250 x 250 and block width 10: 41.360386 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 250 x 250 and block width: 25: 0.475136 ms
+CPU Matrix Multiplication time for size 250 x 250 and block width 25: 41.771008 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 250 x 250 and block width: 32: 0.476160 ms
+CPU Matrix Multiplication time for size 250 x 250 and block width 32: 41.354210 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+500x500
+----------------------------------------------------------------------------------------
+Host to Device transfer time for size 500 x 500: 0.346112 ms
+Device to Host transfer time for size 500 x 500: 0.222016 ms
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 500 x 500 and block width: 2: 42.822113 ms
+CPU Matrix Multiplication time for size 500 x 500 and block width 2: 329.664520 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 500 x 500 and block width: 5: 7.622656 ms
+CPU Matrix Multiplication time for size 500 x 500 and block width 5: 329.188354 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 500 x 500 and block width: 10: 2.576384 ms
+CPU Matrix Multiplication time for size 500 x 500 and block width 10: 329.190399 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 500 x 500 and block width: 25: 2.557952 ms
+CPU Matrix Multiplication time for size 500 x 500 and block width 25: 329.086975 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 500 x 500 and block width: 32: 2.961408 ms
+CPU Matrix Multiplication time for size 500 x 500 and block width 32: 329.208832 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+1000x1000
+----------------------------------------------------------------------------------------
+Host to Device transfer time for size 1000 x 1000: 1.496288 ms
+Device to Host transfer time for size 1000 x 1000: 0.794432 ms
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 1000 x 1000 and block width: 2: 378.914978 ms
+CPU Matrix Multiplication time for size 1000 x 1000 and block width 2: 2650.875000 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 1000 x 1000 and block width: 5: 63.749119 ms
+CPU Matrix Multiplication time for size 1000 x 1000 and block width 5: 2647.017334 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 1000 x 1000 and block width: 10: 135.762939 ms
+CPU Matrix Multiplication time for size 1000 x 1000 and block width 10: 2647.548828 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 1000 x 1000 and block width: 25: 180.332550 ms
+CPU Matrix Multiplication time for size 1000 x 1000 and block width 25: 2649.319336 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 1000 x 1000 and block width: 32: 237.632507 ms
+CPU Matrix Multiplication time for size 1000 x 1000 and block width 32: 2651.687012 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+2500x2500
+----------------------------------------------------------------------------------------
+Host to Device transfer time for size 2500 x 2500: 29.858879 ms
+Device to Host transfer time for size 2500 x 2500: 15.902624 ms
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 2500 x 2500 and block width: 2: 5822.865234 ms
+CPU Matrix Multiplication time for size 2500 x 2500 and block width 2: 49286.835938 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 2500 x 2500 and block width: 5: 1212.050415 ms
+CPU Matrix Multiplication time for size 2500 x 2500 and block width 5: 49226.402344 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 2500 x 2500 and block width: 10: 542.625793 ms
+CPU Matrix Multiplication time for size 2500 x 2500 and block width 10: 50111.406250 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 2500 x 2500 and block width: 25: 617.081848 ms
+CPU Matrix Multiplication time for size 2500 x 2500 and block width 25: 49513.472656 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
+GPU Matrix Multiplication time for size 2500 x 2500 and block width: 32: 524.307434 ms
+CPU Matrix Multiplication time for size 2500 x 2500 and block width 32: 48662.082031 ms
+Test PASSED
+
+----------------------------------------------------------------------------------------
