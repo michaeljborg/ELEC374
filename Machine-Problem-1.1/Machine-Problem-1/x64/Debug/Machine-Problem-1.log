@@ -1,0 +1,5 @@
+﻿MP1_Part2.cu.obj : error LNK2005: "int __cdecl CoresPerSM(int,int)" (?CoresPerSM@@YAHHH@Z) already defined in MP1_Part1.cu.obj
+MP1_Part2.cu.obj : error LNK2005: main already defined in MP1_Part1.cu.obj
+     Creating library C:\Users\20mjb24\source\repos\Machine-Problem-1\x64\Debug\Machine-Problem-1.lib and object C:\Users\20mjb24\source\repos\Machine-Problem-1\x64\Debug\Machine-Problem-1.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\20mjb24\source\repos\Machine-Problem-1\x64\Debug\Machine-Problem-1.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,14 @@
+Device count: 1
+Device 0: NVIDIA GeForce RTX 3060 Ti
+ Clock Rate: 1665000 KHz
+ Number of SMs: 38
+ Cores per SM: 128
+ Total Cores: 4864
+ Warp Size: 32
+ Global Memory: 4294443008 bytes
+ Constant Memory: 65536 bytes
+ Shared Memory per Block: 49152 bytes
+ Registers Available per Block: 65536
+ Max Threads per Block: 1024
+ Max Dimensions of a Block: 1024 x 1024 x 64
+ Max Dimensions of a Grid: 2147483647 x 65535 x 65535
