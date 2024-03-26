@@ -74,6 +74,20 @@ void matrixInit(float* data, int width) {
 
 
 int main() {
+
+    int deviceId;
+    cudaDeviceProp props;
+
+    // Get device ID
+    cudaGetDevice(&deviceId);
+
+    // Get device properties
+    cudaGetDeviceProperties(&props, deviceId);
+
+    printf("Number of SMs: %d\n", props.multiProcessorCount);
+    printf("Max Threads per SM: %d\n", props.maxThreadsPerMultiProcessor);
+
+
     // 100x100, 250x250, 500x500, 1000x100, 1500x2500
     int sizes[] = {100, 250, 500, 1000, 1500};
     int tileWidths[] = {2, 5, 10, 25};
