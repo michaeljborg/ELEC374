@@ -1,0 +1,6 @@
+﻿  Compiling CUDA source file MP2_Part1.cu...
+  
+  C:\Users\20mjb24\source\repos\MP2_Part1\MP2_Part1>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include"  -G   --keep-dir x64\Debug  -maxrregcount=0   --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fdx64\Debug\vc143.pdb" -o C:\Users\20mjb24\source\repos\MP2_Part1\MP2_Part1\x64\Debug\MP2_Part1.cu.obj "C:\Users\20mjb24\source\repos\MP2_Part1\MP2_Part1\MP2_Part1.cu" 
+  MP2_Part1.cu
+  tmpxft_0000047c_00000000-7_MP2_Part1.cudafe1.cpp
+  MP2_Part1.vcxproj -> C:\Users\20mjb24\source\repos\MP2_Part1\x64\Debug\MP2_Part1.exe
