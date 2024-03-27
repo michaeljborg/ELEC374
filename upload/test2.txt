@@ -1,0 +1,36 @@
+Matrix Size: 1200x1250 and 1350x1150, Tile Size: 16x9
+Experiment 1: Test FAILED -> Time: 62.762878 ms
+Experiment 2: Test FAILED -> Time: 63.454910 ms
+Experiment 3: Test FAILED -> Time: 59.066143 ms
+Experiment 4: Test FAILED -> Time: 45.562176 ms
+Experiment 5: Test FAILED -> Time: 43.389919 ms
+Experiment 6: Test FAILED -> Time: 42.811810 ms
+Experiment 7: Test FAILED -> Time: 43.252094 ms
+Experiment 8: Test FAILED -> Time: 42.740128 ms
+Experiment 9: Test FAILED -> Time: 42.651424 ms
+Experiment 10: Test FAILED -> Time: 42.792446 ms
+Total Time: 488.483917 ms
+NumExperiments: 10
+Average Time: 48.848392 ms
+
+Comparing 20 random samples from the output matrices:
+Mismatch at row 79, col 243: CPU 317.491089, GPU 172.647430
+Mismatch at row 646, col 4: CPU 307.310547, GPU 179.486130
+Mismatch at row 969, col 896: CPU 315.910522, GPU 179.514023
+Mismatch at row 999, col 295: CPU 310.518188, GPU 166.100571
+Mismatch at row 461, col 545: CPU 315.228943, GPU 177.489777
+Mismatch at row 56, col 464: CPU 312.207733, GPU 177.707657
+Mismatch at row 888, col 599: CPU 316.233948, GPU 178.021454
+Mismatch at row 804, col 470: CPU 317.223816, GPU 182.478836
+Mismatch at row 642, col 863: CPU 320.083130, GPU 180.706024
+Mismatch at row 619, col 669: CPU 299.041351, GPU 163.987564
+Mismatch at row 1013, col 932: CPU 315.522644, GPU 178.075241
+Mismatch at row 730, col 393: CPU 314.759247, GPU 180.760849
+Mismatch at row 178, col 50: CPU 312.409119, GPU 171.754883
+Mismatch at row 492, col 71: CPU 320.718201, GPU 171.711685
+Mismatch at row 1040, col 296: CPU 326.327301, GPU 186.605820
+Mismatch at row 385, col 320: CPU 304.502136, GPU 176.526367
+Mismatch at row 950, col 627: CPU 327.452301, GPU 189.312531
+Mismatch at row 1103, col 109: CPU 313.049591, GPU 168.977539
+Mismatch at row 507, col 1058: CPU 324.647888, GPU 184.622223
+Mismatch at row 486, col 772: CPU 313.123138, GPU 177.379761
